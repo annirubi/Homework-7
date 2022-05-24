@@ -1,0 +1,7 @@
+:root {
+    box-sizing: border-box;
+    --color-black: black;
+    --color-grey: #f5f5f5;
+    --color-brown: #cda173;
+    --color-white: white;
+}
