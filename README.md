@@ -70,4 +70,4 @@ In order to stylize the html file I used css and the following elements:
 16. z-index
 17. etc.
 
-Some new features can be added 🌝
+Some new features can be added. 🌝
